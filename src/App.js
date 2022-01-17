@@ -1,25 +1,31 @@
 import logo from './logo.svg';
 import './App.css';
+import Main from "./pages/Main";
+import {useState} from "react";
+import {Context} from "./components/Context.js"
+import {
+    BrowserRouter,
+    Route, Routes,
+} from "react-router-dom";
+import Search from "./pages/Search";
+import Category from "./pages/Category";
+import Service from "./pages/Service";
+import Header from "./components/Header";
+import OuterContainer from "./components/OuterContainer";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [context, setContext] = useState({search: ''});
+
+    return (
+        <BrowserRouter basename="webmuseum">
+            <Context.Provider value={[context, setContext]}>
+                <Routes>
+                    <Route path="/" element={<Main/>}/>
+                    <Route path="/*" element={<OuterContainer />}/>
+                </Routes>
+            </Context.Provider>
+        </BrowserRouter>
+    );
 }
 
 export default App;
