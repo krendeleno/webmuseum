@@ -2,16 +2,21 @@ import './style.css';
 import CategoryBadge from "../../components/Main/CategoryBadge";
 import {categories} from "../../database/catetegories";
 import MainInput from "../../components/Main/MainInput";
-import {useContext, useEffect} from "react";
-import {Context} from "../../components/Context";
+import {Link} from "react-router-dom";
+import {services} from "../../database/services";
 
 
 function Main() {
-    const [context, setContext] = useContext(Context);
+   const getRandomArbitrary = () => Math.floor(Math.random() * (services.length - 1) + 1);
 
     return (
         <div className="container">
-            <MainInput />
+            <div>
+                <MainInput />
+                <Link to={`/service/${getRandomArbitrary()}`}>
+                    <p className="random">Случайный сервис?</p>
+                </Link>
+            </div>
             <div className="categories-container">
                 {categories.map((category) => (
                     <CategoryBadge key={category.id} category={category}/>

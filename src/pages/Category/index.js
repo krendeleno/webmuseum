@@ -1,6 +1,4 @@
 import './style.css';
-import {useContext} from "react";
-import {Context} from "../../components/Context";
 import {useParams} from "react-router-dom";
 import {services} from "../../database/services";
 import ServiceBadge from "../../components/CategoryPage/ServiceBadge";
