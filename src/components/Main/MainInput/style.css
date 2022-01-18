@@ -20,14 +20,22 @@ b {
     color: var(--red);
 }
 
-.main-input {
+form > div:first-child {
     flex: 1;
+}
+
+input[role=combobox] {
+    width: 100%;
     padding: 10px 5px;
     border: 3px solid var(--yellow);
 }
 
-.main-input:focus {
+input[role=combobox]:focus {
     outline: none;
+}
+
+.autocomplete {
+
 }
 
 .form-container {
