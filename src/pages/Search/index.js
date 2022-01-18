@@ -20,8 +20,7 @@ function Search() {
                 />
             </Helmet>
             <div className="background"></div>
-            {services.filter(service => service.name.toLowerCase().includes(context.search.toLowerCase())
-                || service.description.toLowerCase().includes(context.search.toLowerCase())).map((service) =>
+            {services.filter(service => service.name.toLowerCase().includes(context.search.toLowerCase())).map((service) =>
                 <ServiceShort key={service.id} service={service}/>
             )}
         </div>

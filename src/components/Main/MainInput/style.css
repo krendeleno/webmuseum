@@ -44,6 +44,7 @@ input[role=combobox]:focus {
     border: none;
     cursor: pointer;
     transition: .1s linear all;
+    text-align: center;
 }
 
 .search-button:hover {

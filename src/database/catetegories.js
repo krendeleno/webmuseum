@@ -6,7 +6,7 @@ export let categories = [
     },
     {
         id: 2,
-        name: "Организация работы",
+        name: "Для жизни",
         img: "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/160/365/7.jpg"
     },
     {

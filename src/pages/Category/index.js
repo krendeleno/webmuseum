@@ -9,7 +9,7 @@ import {categories} from "../../database/catetegories";
 function Category() {
     let params = useParams();
 
-    let categoriesServices = services.filter(x => x.categoryId == params.categoryId);
+    let categoriesServices = params.categoryId == 7? services : services.filter(x => x.categoryId == params.categoryId);
     let category = categories.find(x => x.id == params.categoryId);
 
     return (
