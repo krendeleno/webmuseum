@@ -1,23 +1,21 @@
 import './style.css';
-import {categories} from "../../database/catetegories";
-import MainInput from "../../components/Main/MainInput";
-import {useContext, useEffect} from "react";
+import {useContext} from "react";
 import {Context} from "../../components/Context";
 import {useParams} from "react-router-dom";
+import {services} from "../../database/services";
+import ServiceBadge from "../../components/CategoryPage/ServiceBadge";
 
 
 function Category() {
-    const [context, setContext] = useContext(Context);
     let params = useParams();
 
-    useEffect(() => {
-        console.log(params)
-    }, [])
+    let categoriesServices = services.filter(x => x.categoryId == params.categoryId);
 
     return (
-        <div className="container">
-            <p>это категория</p>
-            <p>{params.categoryId}!</p>
+        <div className="services-container">
+            {categoriesServices.map((service) =>
+                 <ServiceBadge key={service.id} service={service}/>
+            )}
         </div>
     );
 }

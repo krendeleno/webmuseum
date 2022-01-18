@@ -1,19 +1,17 @@
-.categories-container {
+.services-container{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    height: 100%;
 }
 
-.categories-container > * {
-    flex: 1 0 21%;
+.services-container > * {
+    flex-basis: 16%;
 }
 
-.container {
+.service {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
-    margin: 0 15%;
-    min-height: 100vh;
+    align-items: center;
 }

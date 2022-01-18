@@ -1,6 +1,5 @@
 import './style.css';
 import {Link} from "react-router-dom";
-import Header from "../Header";
 import {useMatch, useResolvedPath} from "react-router";
 
 function CustomLink({ children, to, ...props }) {
@@ -8,15 +7,15 @@ function CustomLink({ children, to, ...props }) {
     let match = useMatch({ path: resolved.pathname, end: true });
 
     return (
-        <div>
+        <div className="nav-link">
             <Link
-                style={{ textDecoration: match ? "underline" : "none" }}
+                className={match ? "active" : "not-active"}
                 to={to}
                 {...props}
             >
                 {children}
             </Link>
-            {match && " (active)"}
+            {match && <div className="underline"></div>}
         </div>
     );
 }

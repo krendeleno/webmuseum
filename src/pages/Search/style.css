@@ -1,19 +1,15 @@
-.categories-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.categories-container > * {
-    flex: 1 0 21%;
-}
-
-.container {
+.search-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    margin: 0 15%;
-    min-height: 100vh;
+    gap: 20px;
+}
+
+.background {
+    position: absolute;
+    background-color: #F6F6F6;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    left: 0;
+    z-index: -1;
 }

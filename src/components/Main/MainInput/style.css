@@ -6,12 +6,28 @@
 }
 .title {
     text-align: end;
-    margin-right: 10px;
+    margin-right: 20px;
+    display: flex;
+    cursor: pointer;
+}
+
+.title > p {
+    font-weight: 700;
+    margin: 0;
+}
+
+b {
+    color: var(--red);
 }
 
 .main-input {
     flex: 1;
     padding: 10px 5px;
+    border: 3px solid var(--yellow);
+}
+
+.main-input:focus {
+    outline: none;
 }
 
 .form-container {
@@ -19,7 +35,10 @@
 }
 
 .search-button {
-    padding: 10px 20px;
+    padding: 10px 30px;
+    background-color: var(--yellow);
+    border: none;
+    cursor: pointer;
 }
 
 form {

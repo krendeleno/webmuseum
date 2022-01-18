@@ -1,7 +1,7 @@
 import './style.css';
-import {useContext, useState} from "react";
+import {useContext} from "react";
 import {Context} from "../../Context";
-import {Link, useNavigate} from "react-router-dom";
+import {useNavigate} from "react-router-dom";
 
 function MainInput() {
     let navigate = useNavigate();
@@ -27,7 +27,7 @@ function MainInput() {
             <div className="title" onClick={handleRedirect}>
                 <p>Музей <br />
                 сервисов <br />
-                <b>Я</b>ндекса</p> <br />
+                <b>Яндекса</b></p> <br />
             </div>
             <div className="form-container">
                 <form onSubmit={handleSubmit}>

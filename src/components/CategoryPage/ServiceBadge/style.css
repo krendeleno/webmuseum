@@ -1,0 +1,13 @@
+.service-src {
+    border-radius: 4px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.category {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

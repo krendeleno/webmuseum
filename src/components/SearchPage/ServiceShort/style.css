@@ -1,0 +1,45 @@
+.service-src {
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.service-column .service-name-short > p {
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+
+.service-column p {
+    margin: 0;
+}
+
+.service-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    align-items: start;
+    align-self: stretch;
+    text-align: start;
+}
+
+.service-short, .service-row {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.service-short {
+    padding: 10px;
+    border-radius: 4px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.service-image-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

@@ -1,28 +1,13 @@
-.input-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
-.title {
-    text-align: end;
-    margin-right: 10px;
+.nav-link > a.active {
+    color: var(--text);
 }
 
-.main-input {
-    flex: 1;
-    padding: 10px 5px;
+.nav-link > a {
+    color: var(--grey-text);
+    font-weight: 500;
 }
 
-.form-container {
-    width: 100%;
-}
-
-.search-button {
-    padding: 10px 20px;
-}
-
-form {
-    display: flex;
-    flex-direction: row;
+.underline {
+    margin-top: 2px;
+    border-bottom: 2px solid var(--text);
 }
