@@ -57,7 +57,14 @@ p.value {
     cursor: pointer;
 }
 
+.video-image:hover, .gallery-image:hover{
+    filter: opacity(80%);
+}
 
+.video-image, .gallery-image{
+    filter: opacity(100%);
+    transition: linear all .2s;
+}
 
 .gallery > * {
     flex: 1 0 21%;

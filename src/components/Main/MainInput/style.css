@@ -34,10 +34,6 @@ input[role=combobox]:focus {
     outline: none;
 }
 
-.autocomplete {
-
-}
-
 .form-container {
     width: 100%;
 }
@@ -47,9 +43,18 @@ input[role=combobox]:focus {
     background-color: var(--yellow);
     border: none;
     cursor: pointer;
+    transition: .1s linear all;
+}
+
+.search-button:hover {
+    background-color: var(--dark-yellow);
 }
 
 form {
     display: flex;
     flex-direction: row;
+}
+
+.autocomplete {
+    z-index: 1;
 }

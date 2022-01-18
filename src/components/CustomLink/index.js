@@ -15,7 +15,6 @@ function CustomLink({ children, to, ...props }) {
             >
                 {children}
             </Link>
-            {match && <div className="underline"></div>}
         </div>
     );
 }

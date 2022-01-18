@@ -5,9 +5,31 @@
 .nav-link > a {
     color: var(--grey-text);
     font-weight: 500;
+    position: relative;
+    transition: all 0.2s ease-in-out;
 }
 
-.underline {
-    margin-top: 2px;
-    border-bottom: 2px solid var(--text);
+.nav-link > a::after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 2px;
+    background-color: var(--text);
+    left: 50%;
+    bottom: -10px;
+    transition: all 0.4s ease-in-out;
+}
+
+.not-active:hover {
+    color: var(--text);
+}
+
+.nav-link:hover .not-active::after{
+    width: 100%;
+    left: 0;
+}
+
+a.active::after {
+    width: 100%;
+    left: 0;
 }

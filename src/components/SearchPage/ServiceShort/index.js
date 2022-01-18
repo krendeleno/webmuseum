@@ -7,7 +7,7 @@ function ServiceShort({service}) {
         <div className="service-short">
             <div className="service-row">
                 <Link to={`/service/${service.id}`} className="service-image-container">
-                    <img className="service-src" src={service.img} alt="service img"/>
+                    <img className="service-src-short" src={service.img} alt="service img"/>
                 </Link>
                 <div className="service-column">
                     <Link to={`/service/${service.id}`} className="service-name-short">

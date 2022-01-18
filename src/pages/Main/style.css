@@ -21,4 +21,9 @@
 
 .random {
     text-align: end;
+    transition: .1s all linear;
+}
+
+.random:hover {
+    color: var(--grey-text)
 }

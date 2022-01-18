@@ -3,6 +3,11 @@
     width: 100px;
     height: 100px;
     object-fit: cover;
+    transition: .1s linear all;
+}
+
+.category-src:hover {
+    transform: scale(1.1);
 }
 
 .category {
