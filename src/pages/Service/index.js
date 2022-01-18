@@ -11,7 +11,6 @@ import {Helmet} from "react-helmet";
 
 function Service() {
     let params = useParams();
-    console.log(params.serviceId)
     let service = services.find(x => x.id == params.serviceId);
 
     return (
@@ -49,7 +48,7 @@ function Service() {
                     {!service.images.length? <></> : <div className="big-label">Скриншоты</div>}
                     <p className="gallery">
                         {service.images.map((image) =>
-                            <a data-fancybox="gallery" href={image}>
+                            <a data-fancybox="gallery" href={image} key={image}>
                                 <img className="gallery-image" alt="service screenshot" src={image} />
                             </a>
                         )}
@@ -60,7 +59,7 @@ function Service() {
                     {!service.video.length? <></> : <div className="big-label">Видео</div>}
                     <p className="video-gallery">
                         {service.video.map((video) =>
-                            <a data-fancybox="video-gallery" data-src={video}>
+                            <a data-fancybox="video-gallery" data-src={video} key={video}>
                                 <img className="play-icon" src="https://www.iconpacks.net/icons/1/free-video-icon-818-thumb.png" alt="play"/>
                                 <img className="video-image" src={extractVideoID(video)} alt="video"/>
                             </a>

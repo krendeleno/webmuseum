@@ -13,7 +13,7 @@
   position: relative;
 }
 
-p, a, div, ::placeholder, input[role=combobox] {
+p, a, div, ::placeholder, input {
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   color: var(--text);

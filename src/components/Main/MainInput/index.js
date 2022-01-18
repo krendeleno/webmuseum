@@ -6,8 +6,25 @@ import Autocomplete from "react-autocomplete"
 import {services} from "../../../database/services";
 
 function MainInput() {
+    function matchService(state, value) {
+        return (
+            state.label.indexOf(value.toLowerCase()) !== -1
+        )
+    }
+    function sortServices(a, b, value) {
+        const aLower = a.label.toLowerCase()
+        const bLower = b.label.toLowerCase()
+        const valueLower = value.toLowerCase()
+        const queryPosA = aLower.indexOf(valueLower)
+        const queryPosB = bLower.indexOf(valueLower)
+        if (queryPosA !== queryPosB) {
+            return queryPosA - queryPosB
+        }
+        return aLower < bLower ? -1 : 1
+    }
     let navigate = useNavigate();
     const [context, setContext] = useContext(Context);
+    let autosuggestion = services.map(x => ({id: x.id, label: x.name.toLowerCase()}));
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -34,9 +51,11 @@ function MainInput() {
             <div className="form-container">
                 <form onSubmit={handleSubmit}>
                     <Autocomplete
+                        shouldItemRender={matchService}
+                        sortItems={sortServices}
                         className="main-input"
                         getItemValue={(item) => item.label}
-                        items={services.map(x => ({id: x.id, label: x.name.toLowerCase()}))}
+                        items={autosuggestion}
                         renderItem={(item, isHighlighted) =>
                             <div className="autocomplete" key={item.id} style={{ background: isHighlighted ? 'lightgray' : 'white' }}>
                                 {item.label}
