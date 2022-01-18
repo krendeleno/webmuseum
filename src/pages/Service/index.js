@@ -6,6 +6,7 @@ import {extractVideoID} from "../../api/getVideoId";
 import {format} from "date-fns";
 import {ru} from "date-fns/locale";
 import LinkBtn from "../../components/ServicePage/LinkBtn";
+import {Helmet} from "react-helmet";
 
 
 function Service() {
@@ -15,6 +16,13 @@ function Service() {
 
     return (
             <div className="service-data">
+                <Helmet>
+                    <title>{service.name}</title>
+                    <meta
+                        name="description"
+                        content={"Информация об экспонате " + service.name}
+                    />
+                </Helmet>
                 <div className="upper-block">
                     <img className="service-image" src={service.img} alt="service img" />
                     <div className="service-info">

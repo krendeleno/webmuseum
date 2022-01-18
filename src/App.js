@@ -7,11 +7,8 @@ import {
     BrowserRouter,
     Route, Routes,
 } from "react-router-dom";
-import Search from "./pages/Search";
-import Category from "./pages/Category";
-import Service from "./pages/Service";
-import Header from "./components/Header";
 import OuterContainer from "./components/OuterContainer";
+import {Helmet} from "react-helmet";
 
 function App() {
     const [context, setContext] = useState({search: ''});
@@ -19,6 +16,13 @@ function App() {
     return (
         <BrowserRouter basename="webmuseum">
             <Context.Provider value={[context, setContext]}>
+                <Helmet>
+                    <title>Музей сервисов Яндекса</title>
+                    <meta
+                        name="description"
+                        content="Виртуальный музей, посвященный сервисам компании Яндекс. Все права принадлежат ООО 'Яндекс'."
+                    />
+                </Helmet>
                 <Routes>
                     <Route path="/" element={<Main/>}/>
                     <Route path="/*" element={<OuterContainer />}/>
