@@ -1463,10 +1463,12 @@ export let services = [
         link: "https://academy.yandex.ru/",
         description: "Школы, лектории, олимпиады и другие образовательные проекты, организованные Яндексом или при его участии.",
         images: [
-            "https://avatars.mds.yandex.net/i?id=1ae09fb980602d4e0a00e956097abf1b-5629144-images-thumbs&n=13&exp=1",
-            "https://avatars.mds.yandex.net/get-yablogs/47421/file_1474892218437/orig",
-            "https://user-life.com/uploads/posts/2019-05/1558164934_4.png",
-            "https://i.ytimg.com/vi/IK16RF6FyuI/maxresdefault.jpg"
+            "https://pbs.twimg.com/media/DytzbsYXQAAD2BS.jpg:large",
+            "https://avatars.mds.yandex.net/get-media-platform/1599454/file_1564750907907/orig",
+            "https://pbs.twimg.com/media/ESG2pFUX0AEH5PW.jpg",
+            "https://boodet.online/assets/images/2019-01-31-01-46-52-5199-original.jpeg",
+            "https://i.ytimg.com/vi/bZ04M-0v4PE/maxresdefault.jpg",
+            "https://yandex-images.clstorage.net/HH1Q00322/f10528AZ/YlWHHGGVdfF3Ju0-E2LAfW0QIBBIsMysDKoGT04kDUMZeCZ1KVnvQ99S4zUiQBcwCyQcY9ChQLVrpsoGS8dRuNdRkngFVMQVh4b9PiOyUc39YJCQuDCN7HyPgz7-cdnTPLniQKkvmdT4YIVSQULgMtzQ3FNV8SSxr8K88DsQh_8SJpe9w0fG9tdUvTgws0Bd32CkUTjCKky5q-dKjCPIp72Lw1fu_ppGaGAlIkCikjANAfwi9RPFFX5TL3Ef0wWswWSGX5Gk5qSmtO0Is_HSf71QxYAIE7reW7oG2E4DWATcOzBnrW9rFYlCF5Ay0-IzP5JcsqWBJKTfw23T3iC3vTKmFU3QFfSVF5SfCmCjwR6sQTTSa8G6nMp4Fto-keo0v8lRl75_Sjbb4JcwQeKAch-TXTCFUGfVrNCOIu0Cpd3zJkWtMdYG1fWFzGpik4GsrzHUQhlg6TzrKQdJH0Hp5Fz5I7fsbFs0uLA2Q5BQUGIsQT5RdcIkJb5BvoOPMydNIgVl_VG01udUVp5r4lPR7b_CxrBqkKjdqQoVqk8BqDX-ynP1TsyqdZiBlHBBMPIwHJFfYZbyJQQuIWwBDEJl_1EXp98RR0R1JlY-mlHiMm4vYqejukGorRs5xPuv4hnFLsnixd5-iBXLc9bR0INgsS9BLGEHI9fmXIDds05Ato0D5odPsKRnttc030nyMrINPyKGMMmzKd3LKxRoHiMbp42IUkUOLMpX2SGkQgKC4GLdkz7xdxGWN_wTv7P_sWT9gQV2rqE0tvdXBC6Z4EPwbj3xxZA6YwrfCCgEmt1zGAcueTM1ns7JNqsDNoKTETDA3kIMULbiFBTuoqxhrFIWPxFF9cwyh1Ykxeb8ieKCIc2_0XXCyYIKPsurNQu-4jvn_8szdt4c27eKYkYwoHLB4V9DPlKH4bV27fE_Mx1jBE8CheccA1VF9TdFzvuAYBJd3ADUkPjw2jzLuHRIrEJIY"
         ],
         video: [
             "https://youtu.be/UsyEZr1fCp4"
@@ -1485,10 +1487,11 @@ export let services = [
         link: "https://lavka.yandex/",
         description: "Яндекс.Лавка — российский сервис заказа продуктов и хозяйственных товаров на дом с локальных складов через мобильное приложение или веб-сайт. Часть фудтех-направления «Яндекс.Такси». По состоянию на июль 2020 года «Яндекс.Лавка» работает в Москве, Московской области, Санкт-Петербурге, Ленинградской области, Нижнем Новгороде и Казани. В ноябре 2020-го года, «Яндекс» запустил аналог Лавки под брендом Deli в Израиле.",
         images: [
-            "https://avatars.mds.yandex.net/i?id=1ae09fb980602d4e0a00e956097abf1b-5629144-images-thumbs&n=13&exp=1",
-            "https://avatars.mds.yandex.net/get-yablogs/47421/file_1474892218437/orig",
-            "https://user-life.com/uploads/posts/2019-05/1558164934_4.png",
-            "https://i.ytimg.com/vi/IK16RF6FyuI/maxresdefault.jpg"
+            "https://5droid.ru/uploads/posts/2020-07/1593875632_jandeks-lavka-bystraja-dostavka-produktov-4.jpg",
+            "https://yandex-images.clstorage.net/HH1Q00322/f10528AZ/YlWHHGGVdfF3Ju0-E2LAfW0QIBBIsMysDKoGT0vxPcMZrQMQWSwqRtoitpXScBcVXlEpY4WU8CBLtnpj-8cxmJdhwji1VMQVh4b9PiOyUc39YJCQuDCN7HyPgz7-cdnTPLniQKkvmdT4YIVSQULgMtzQ3FNV8SSxr8K88DsQh_8SJpe9w0fG9tdUvTgws0Bd32CkUTjCKky5q-dKjCPIp72Lw1fu_ppGaGAlIkCikjANAfwi9RPFFX5TL3Ef0wWswWSGX5Gk5qSmtO0Is_HSf71QxYAIE7reW7oG2E4DWATcOzBnrW9rFYlCF5Ay0-IzP5JcsqWBJKTfw23T3iC3vTKmFU3QFfSVF5SfCmCjwR6sQTTSa8G6nMp4Fto-keo0v8lRl75_Sjbb4JcwQeKAch-TXTCFUGfVrNCOIu0Cpd3zJkWtMdYG1fWFzGpik4GsrzHUQhlg6TzrKQdJH0Hp5Fz5I7fsbFs0uLA2Q5BQUGIsQT5RdcIkJb5BvoOPMydNIgVl_VG01udUVp5r4lPR7b_CxrBqkKjdqQoVqk8BqDX-ynP1TsyqdZiBlHBBMPIwHJFfYZbyJQQuIWwBDEJl_1EXp98RR0R1JlY-mlHiMm4vYqejukGorRs5xPuv4hnFLsnixd5-iBXLc9bR0INgsS9BLGEHI9fmXIDds05Ato0D5odPsKRnttc030nyMrINPyKGMMmzKd3LKxRoHiMbp42IUkUOLMpX2SGkQgKC4GLdkz7xdxGWN_wTv7P_sWT9gQV2rqE0tvdXBC6Z4EPwbj3xxZA6YwrfCCgEmt1zGAcueTM1ns7JNqsDNoKTETDA3kIMULbiFBTuoqxhrFIWPxFF9cwyh1Ykxeb8ieKCIc2_0XXCyYIKPsurNQu-4jvn_8szdt4c27eKYkYwoHLB4V9DPlKH4bV27fE_Mx1jBE8CheccA1VF9TdFzvuAYBJd3ADUkPjw2jzLuHRIrEJIY",
+            "https://avatars.mds.yandex.net/i?id=2a0000017a014df7783e7c22469affa91aa0-3884575-images-thumbs&n=13&exp=1",
+            "https://retail-loyalty.org/upload/iblock/9af/KMO_167328_00299_1_t218_002306.jpg",
+            "https://avatars.mds.yandex.net/i?id=68e15912ba49ee9bf407f4de5f726eed-4903727-images-thumbs&n=13&exp=1"
         ],
         video: [
             "https://youtu.be/UsyEZr1fCp4"
@@ -1507,10 +1510,12 @@ export let services = [
         link: "https://eda.yandex.ru/",
         description: "Яндекс.Еда — сервис заказа быстрой доставки еды из ресторанов и продуктов из магазинов через мобильные приложения или веб-сайт. Доставку осуществляют курьерские службы, курьеры-партнёры сервиса Яндекс.Еда, водители-партнёры Яндекс Go и собственные курьеры ресторанов. На выбор доступны пиццерии, пекарни, рестораны грузинской и японской кухни, бургерные, стейк-хаусы, а также продуктовые магазины: Магнит, Дикси, ВкусВилл, Metro и другие заведения.",
         images: [
-            "https://avatars.mds.yandex.net/i?id=1ae09fb980602d4e0a00e956097abf1b-5629144-images-thumbs&n=13&exp=1",
-            "https://avatars.mds.yandex.net/get-yablogs/47421/file_1474892218437/orig",
-            "https://user-life.com/uploads/posts/2019-05/1558164934_4.png",
-            "https://i.ytimg.com/vi/IK16RF6FyuI/maxresdefault.jpg"
+            "https://cdn.spbdnevnik.ru/uploads/block/image/221059/__medium_%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg.jpg",
+            "https://avatars.mds.yandex.net/i?id=f5cb9e33182a6f3ffeda6304a4829cc7-5249092-images-thumbs&ref=rim&n=33&w=391&h=188",
+            "https://avatars.mds.yandex.net/get-zen_doc/1591747/pub_602cff5916b98878e1f06f88_602d00dd16b98878e1f3f0a8/scale_1200",
+            "https://pbs.twimg.com/media/DXTD3QaXcAA5tOM.jpg:large",
+            "https://avatars.mds.yandex.net/i?id=5a8142788eeb318dc8dde3402474cff9-5521840-images-thumbs&n=13&exp=1",
+            "https://prosto-eto.ru/wp-content/uploads/2020/03/dostavka-produktov-i-gotovyj-edy-na-dom-vo-vremya-karantina-top-luchshih-servisov-i-magazinov-8.jpg"
         ],
         video: [
             "https://youtu.be/UsyEZr1fCp4"
@@ -1529,10 +1534,11 @@ export let services = [
         link: "https://mobile.yandex.ru/apps/android/navigator",
         description: "Яндекс.Навигатор — автомобильное навигационное приложение для мобильных устройств под управлением Android, iOS и мобильных операционных систем семейства Windows, разработанное российской интернет-компанией «Яндекс». Представлено в марте 2012 года. По данным «Яндекса», на август 2018 года «Навигатор» использовали 16 миллионов пользователей в России и более 4 миллионов в странах СНГ и Турции. ",
         images: [
-            "https://avatars.mds.yandex.net/i?id=1ae09fb980602d4e0a00e956097abf1b-5629144-images-thumbs&n=13&exp=1",
-            "https://avatars.mds.yandex.net/get-yablogs/47421/file_1474892218437/orig",
-            "https://user-life.com/uploads/posts/2019-05/1558164934_4.png",
-            "https://i.ytimg.com/vi/IK16RF6FyuI/maxresdefault.jpg"
+            "https://tegra3.net/uploads/posts/2012-04/1333352520_screenshot_2012-04-02-13-26-36.jpg",
+            "https://yandex-images.clstorage.net/HH1Q00322/f10528AZ/YlWHHGGVdfF3Ju0-E2LAfW0QIBBIsMysDKoGT05UHYOcjVN1aVnvpq8no7XyBSJVKyTZY_CBVXVe1s8Tm8dRuNch0pi1VMQVh4b9PiOyUc39YJCQuDCN7HyPgz7-cdnTPLniQKkvmdT4YIVSQULgMtzQ3FNV8SSxr8K88DsQh_8SJpe9w0fG9tdUvTgws0Bd32CkUTjCKky5q-dKjCPIp72Lw1fu_ppGaGAlIkCikjANAfwi9RPFFX5TL3Ef0wWswWSGX5Gk5qSmtO0Is_HSf71QxYAIE7reW7oG2E4DWATcOzBnrW9rFYlCF5Ay0-IzP5JcsqWBJKTfw23T3iC3vTKmFU3QFfSVF5SfCmCjwR6sQTTSa8G6nMp4Fto-keo0v8lRl75_Sjbb4JcwQeKAch-TXTCFUGfVrNCOIu0Cpd3zJkWtMdYG1fWFzGpik4GsrzHUQhlg6TzrKQdJH0Hp5Fz5I7fsbFs0uLA2Q5BQUGIsQT5RdcIkJb5BvoOPMydNIgVl_VG01udUVp5r4lPR7b_CxrBqkKjdqQoVqk8BqDX-ynP1TsyqdZiBlHBBMPIwHJFfYZbyJQQuIWwBDEJl_1EXp98RR0R1JlY-mlHiMm4vYqejukGorRs5xPuv4hnFLsnixd5-iBXLc9bR0INgsS9BLGEHI9fmXIDds05Ato0D5odPsKRnttc030nyMrINPyKGMMmzKd3LKxRoHiMbp42IUkUOLMpX2SGkQgKC4GLdkz7xdxGWN_wTv7P_sWT9gQV2rqE0tvdXBC6Z4EPwbj3xxZA6YwrfCCgEmt1zGAcueTM1ns7JNqsDNoKTETDA3kIMULbiFBTuoqxhrFIWPxFF9cwyh1Ykxeb8ieKCIc2_0XXCyYIKPsurNQu-4jvn_8szdt4c27eKYkYwoHLB4V9DPlKH4bV27fE_Mx1jBE8CheccA1VF9TdFzvuAYBJd3ADUkPjw2jzLuHRIrEJIY",
+            "https://pbs.twimg.com/media/C-KQ7-SXoAAdEDK.jpg:large",
+            "https://autopeople.ru/news/wp-content/uploads/C0wrttLWgAA77Yr.jpg-large.jpg",
+            "https://avatars.mds.yandex.net/i?id=a5013fa1ed618e8abcb14fd1a56386fb-4233047-images-thumbs&n=13&exp=1"
         ],
         video: [
             "https://youtu.be/UsyEZr1fCp4"
@@ -1550,10 +1556,10 @@ export let services = [
         link: "https://docs.yandex.ru/",
         description: "Яндекс.Документы — сервис, где вы можете создавать и редактировать документы, таблицы и презентации. Редактировать можно как самостоятельно, так и вместе с друзьями или коллегами. Все документы, с которыми вы недавно работали, будут собраны в одном месте.",
         images: [
-            "https://avatars.mds.yandex.net/i?id=1ae09fb980602d4e0a00e956097abf1b-5629144-images-thumbs&n=13&exp=1",
-            "https://avatars.mds.yandex.net/get-yablogs/47421/file_1474892218437/orig",
-            "https://user-life.com/uploads/posts/2019-05/1558164934_4.png",
-            "https://i.ytimg.com/vi/IK16RF6FyuI/maxresdefault.jpg"
+            "https://storage.myseldon.com/news_pict_4C/4CCC1ABCCAD1B70E5741FD79A084BAEA",
+            "https://trashbox.ru/ifiles/1431241_e46075_frame_32341.png-orig/yandeks-vypustil-analogi-word-excel-i-powerpoint-v-vide-brauzernogo-ofisa-2.jpg",
+            "https://s00.yaplakal.com/pics/pics_original/5/9/1/15494195.jpg",
+            "https://avatars.mds.yandex.net/i?id=384e4956a84ddb81797be1a0868a50d8-5179607-images-thumbs&n=13&exp=1"
         ],
         video: [
             "https://youtu.be/UsyEZr1fCp4"
