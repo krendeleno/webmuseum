@@ -3,6 +3,13 @@ import {Link} from "react-router-dom";
 import LinkBtn from "../../ServicePage/LinkBtn";
 
 function ServiceShort({service}) {
+    const getDescription = () => {
+        if (service.description.length > 300)
+            return service.description.slice(0, 300) + "..."
+        else
+            return service.description;
+    }
+
     return (
         <div className="service-short">
             <div className="service-row">
@@ -13,7 +20,7 @@ function ServiceShort({service}) {
                     <Link to={`/service/${service.id}`} className="service-name-short">
                         <p>{service.name}</p>
                     </Link>
-                    <p>{service.description}</p>
+                    <p>{getDescription()}</p>
                 </div>
             </div>
             <LinkBtn link={service.link}/>

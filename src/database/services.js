@@ -263,7 +263,7 @@ export let services = [
             "https://static.tildacdn.com/tild3364-6463-4036-b261-643365633033/3.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/VEx_dQ2F6VE"
         ]
     },
     {
@@ -274,7 +274,7 @@ export let services = [
         tags: [
             "Хранение файлов"
         ],
-        date: new Date("April, 2012"),
+        date: new Date("April 30, 2012"),
         link: "https://disk.yandex.ru",
         description: "Яндекс.Диск — облачный сервис, принадлежащий компании Яндекс, позволяющий пользователям хранить свои данные на серверах в «облаке» и передавать их другим пользователям в Интернете. Основное назначение сервиса — синхронизация файлов между различными устройствами. Ранее, до запуска Яндекс.Диска, функцию хранения пользовательских файлов на Яндексе выполнял сервис Яндекс.Народ. Основными конкурентами данного сервиса являются Облако Mail.Ru, Google Диск, Dropbox, OneDrive. ",
         images: [
@@ -284,7 +284,7 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=deebf1bc53d209f0e36b6f7793b76d0d-4550775-images-thumbs&ref=rim&n=33&w=443&h=188"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/-UsKNlvzZac"
         ]
     },
     {
@@ -305,7 +305,6 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=7213f132af5dc291174759bd59d4d2ec-4886959-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -327,7 +326,6 @@ export let services = [
             "https://www.alltrades.ru/img/news/279/5.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -348,7 +346,7 @@ export let services = [
             "https://trashbox.ru/ifiles/988114_8b3b00_dsc_0358-edit/top-4-luchshih-moskovskih-karsheringa-61.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/lwgqiD3g2jw"
         ]
     },
     {
@@ -370,7 +368,6 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=b1c82e5b97dd4d765c1b7c3d0443e76c-5288739-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -393,7 +390,6 @@ export let services = [
             "https://yandx-browser.ru/wp-content/uploads/2020/02/4Okno-zametok-otkrytyh-cherez-panel-v-YAndeks-Brauzere.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -404,7 +400,7 @@ export let services = [
         tags: [
             "Транспорт",
         ],
-        date: new Date("November, 2017"),
+        date: new Date("November 1, 2017"),
         link: "https://zapravki.yandex.ru/",
         description: "Яндекс.Заправки — это приложение, которое позволяет заправлять автомобиль, не выходя из него. Вам не нужно стоять в очереди и оставлять вещи без присмотра. На АЗС, подключенных к Яндекс.Заправкам, качество топлива застраховано — если топливо окажется некачественным или станет причиной поломки автомобиля, «Ингосстрах» и «Ренессанс страхование» компенсируют затраты на ремонт.",
         images: [
@@ -414,7 +410,7 @@ export let services = [
             "https://yandex-images.clstorage.net/ST5nq5146/80bfcbtMGc3f/zdv_bNwhFaRulUN2-JlUB_edgBDFCPuetsLUbqM1Ud0i0JaHyBqqh9ImgI14E8nHOT5mYumqSv-uW186iI0JmpmOqxh9xRV1imSjNywIRQJHrfBgVY3aC0PyIW6SUEQJInW3E82a2SRwUYf-ysXeQB7ZsndsP1-LT9pOXEsd3a8_2N5s-tPkR9kXkVQ4a6XTVlzAxkfMiq5ytcXYJiAWmmb3BzA472mkwjEkXHlmPOEO2ZJkPB8M6_mrnI7a2WyszsvcLPiwxrVoZCEnmhtl8dZPkaYnfVmfUrfGuCTz9ctERGWR2Q0aFTJzJ82JVOwQXCsiZG5OP1v4qG6NOMvsbu6rPU7LgUT3SkdBtFiIN0K3LOFntN-7XKOWVRo0cOb4dWaHkGsu6rawEhZNS3a-Ywy4YWZuj894unksfhrI_66d2vzNeLE1teqEQxarifTR1F1DR3asaA_QFGZJVxLHiDenZ_CKX9tXIwG0vQk1v3L9SDH0LY1PG9hbXZyYqTx_vYq8j1vBZPdqxBOVObglIXYfkNbXPUtcA6aXeUQAhapl9vfCSCz5VSCgNYwJZ4wi_3nRt-2tTJmYC40u6Fh9HN_J_X6okEeHSqdC5gjqRZAH3uI1lu_YHJNXh_g0gKZ7NkbF0fvOSrdzQccv-3a8E097YZWdnF7oKVlcjCqIvO3Nu0_fSaJHVmhVoHW56UWwh01htFeviW3yZNbZ9ENWezVVlDA4_6qEwGEHzim0ncFu-BMnrg8vu-maD03rq1xtvgtfXuui9sX7VGM2Wns0gSXfATbnLHh903clSDVCt8jVJZWBuPzaFULQpq0I5M9yDltitf5_nXm7uM5Nyhj83T2prd8JUOUHavZzpLr6JxH3DcPltu0YrYAXJRoEs2fqxbRGojluunTgALUMmiZNc8yK0vbsrB14KKntbKgYjMzt6zzfS7FXtHhGUFWJWHfgNgzj1gfsCc_B5KcYw"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/tv9lCmKmU_s"
         ]
     },
     {
@@ -437,7 +433,8 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=1e88dfa0439576db7cdaa0b6eda6001d-4730430-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/O3blf0lJy04",
+            "https://youtu.be/BlIBw8MDcKY"
         ]
     },
     {
@@ -460,7 +457,6 @@ export let services = [
             "https://i.ibb.co/XLdJLFv/Screenshot-16.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -481,7 +477,6 @@ export let services = [
             "https://i.pinimg.com/originals/d0/f2/cd/d0f2cd2909d1e9573b67af018c204602.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -501,7 +496,6 @@ export let services = [
             "https://odengah.com/wp-content/uploads/2021/05/Servis-YAndeks-Investitsii-i-kakie-u-nego-tarify-i-komissii.png",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -520,7 +514,6 @@ export let services = [
             "https://tunecom.ru/uploads/posts/2019-01/1548835997_2019-01-30_095145.png",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -543,7 +536,6 @@ export let services = [
             "http://drupal.org.ru/storage/drupal/article/9913_yandex-calendar_1.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -565,7 +557,7 @@ export let services = [
             "https://expertnov.ru/800/600/https/ds05.infourok.ru/uploads/ex/071b/000cff6a-b699c61a/img11.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/tmNHpxF0b3g"
         ]
     },
     {
@@ -590,7 +582,9 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=213d6e8642668b5025a1cd214d9bc9d6-4591401-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/-rDslfDiQLI",
+            "https://youtu.be/pl5R6d82gro",
+            "https://youtu.be/83e36QSG0do"
         ]
     },
     {
@@ -608,13 +602,15 @@ export let services = [
         link: "https://www.kinopoisk.ru",
         description: "«Кинопоиск» — свободно редактируемый и крупнейший русскоязычный интернет-сервис о кино. С 2018 года также доступен онлайн-кинотеатр (до 2 ноября 2021 имевший отдельное название — КиноПоиск HD) с несколькими тысячами фильмов, сериалов, мультфильмов, в том числе премьерных и эксклюзивных.",
         images: [
-            "https://avatars.mds.yandex.net/i?id=b4cbdbf74103532bfb01c17d1d563638-4078469-images-thumbs&n=13&exp=1",
-            "https://avatars.mds.yandex.net/i?id=f0728857c0bee2ec63f647335dbe1e78-5450752-images-thumbs&ref=rim&n=33&w=210&h=188",
+            "https://avatars.mds.yandex.net/get-kinopoisk-post-img/1345014/7ff62a307d0a81aa2e362f806473615b/960",
+            "https://png.cmtt.space/paper-media/91/d3/24/3ad55f8e0057e8.jpg",
             "https://kinopoisk.userecho.com/s/attachments/28876/5/81/371cfe244e7e284ab9cf19b41e01bbd2.png",
             "https://yandex-images.clstorage.net/ST5nq5146/80bfcbtMGc3f/zdv_bNwhFaRulUN2-JlUB_edgBDFCPuetsfRDiZVMegXhdPSmC_6wrdDsLg9JqnnfFtjt0nqWv-OX7pa7dz52rmvPt040bW0bqWT50gJJLd3bQBRhXjeG8d35KqjgAVZIhD1YTpd2PRwsLdPSqQdQnyrE7b4Pj6JOM9uH1uq7J7Oic_va6KH13rGczZZ-BQRZSxQ9LQ_Oq1zB7Y55wK1etdlReGIPXtWwxNV7lqkPVEsi0DWTk_sW6kL3xyque7ezOrtHdrRN6TYtrMU2etFcQWdg8WUPTnNcdRVaMWx19s2hzZQeH94xzMhhR8IVo1RftpzZk9MHlhLGV_eitkPvP_bb1_48lc3GiXhp7iINbCWP2EGZRyqb2FXRlv0kzXahKTG8_oeSUfxA9dsWMXOU34bg0UNnVyraRpMHvmozj9M6x4dWDFVlekkIjTb-ZeQVEyyVRaemTwCNWcrtlLVumXV9xJpDeu3s0DWfak1nsE9GQMmb78tSet7j8_Z-I59b5tPX9hxBRZ7FfPEebtEAfXdkQbFLGgMESclCeQDRYinptUQaqxqhrMS5S2rBH6C_TkApC_v_fubis6su7vPjJzKbC_4ElRlSkeTdQh6NuK0DwJGVd14jWGnBti3s3ebFERm8jlNmCVBA9UcGwbOoI0IEtWevSxZWVoPXanJfS19-Gz-2uC29vtEk1WI6bVjdU9TNzTuKayhZPbYtKAmetd1hsGKbVjEk8H0zjqFvBK-m2OGXn5_mJh5793aeW2s3_jdbUnhdbUY1uJkKnvV4cXMoicV_do9YGUXa1TQJ8tXdvZQCNz5p7KRpn1aJs2A7uvRRAxcvpi5yk9tWdufLT0Kzq_YQ2Un-Ffx9PipFzKUDcL3Rp3ab1GUx0lEQfTo1uSWMaoM6gYgUyR8mPd9w_w4UUWfTZ2528o_fImZDi1_63wcyvNG1sv1oQU5qDcBJQzTlQduWG2QJ3cqs"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/SYLHCb-1Wy4",
+            "https://youtu.be/sAxrBwdNQSs",
+            "https://youtu.be/I1xbNXQ3Nvw"
         ]
     },
     {
@@ -625,7 +621,7 @@ export let services = [
         tags: [
             "Поиск",
         ],
-        date: new Date("March, 2019"),
+        date: new Date("March 1, 2019"),
         link: "https://yandex.ru/q",
         description: "Яндекс.Кью (до марта 2019 года — TheQuestion) — веб-сервис Q&A (система вопросов и ответов).",
         images: [
@@ -637,7 +633,8 @@ export let services = [
             "https://quokka.media/wp-content/uploads/2020/01/kukik1.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/qe7IHr9rwhc",
+            "https://youtu.be/b39CP0c1Rmw"
         ]
     },
     {
@@ -663,7 +660,8 @@ export let services = [
             "http://screenshot.ru/upload/images/2015/01/24/3421784f9828e80666c8f.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/ZKS7v7XQJE0",
+            "https://youtu.be/dCoAOUIdGCE"
         ]
     },
     {
@@ -685,7 +683,8 @@ export let services = [
             "https://rusnews1.ru/wp-content/uploads/2019/06/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/CD8fhTnSOm0",
+            "https://youtu.be/J9cvcTC-XeI"
         ]
     },
     {
@@ -708,7 +707,8 @@ export let services = [
             "https://akiwa.ru/upload/rabota-s-segmentami-v-yandeks-metrike/50.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/ZbRV6TszWA8",
+            "https://youtu.be/MvzTpjvjOXU"
         ]
     },
     {
@@ -734,7 +734,8 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=d26aac8d6b8fccc503d3cbcdf1fc018e-5246120-images-thumbs&ref=rim&n=33&w=287&h=188"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/hJYcarj4UBg",
+            "https://youtu.be/9YPBil4TC9o"
         ]
     },
     {
@@ -757,7 +758,6 @@ export let services = [
             "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/51134/1o8uUn5u60TWOc9boswaDg.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -779,7 +779,6 @@ export let services = [
             "https://yandex-images.clstorage.net/ST5nq5146/80bfcbtMGc3f/zdv_bNwhFaRulUN2-JlUB_edgBDFCPuetseUPiO1YU0H8MMC7S__wsdD8L1tI_nCWQ5GYmlKCp-bL7pKLYxJOrn_Pt040bW0bqWT50gJJLd3bQBRhXjeG8d35KqjgAVZIhD1YTpd2PRwsLdPSqQdQnyrE7b4Pj6JOM9uH1uq7J7Oic_va6KH13rGczZZ-BQRZSxQ9LQ_Oq1zB7Y55wK1etdlReGIPXtWwxNV7lqkPVEsi0DWTk_sW6kL3xyque7ezOrtHdrRN6TYtrMU2etFcQWdg8WUPTnNcdRVaMWx19s2hzZQeH94xzMhhR8IVo1RftpzZk9MHlhLGV_eitkPvP_bb1_48lc3GiXhp7iINbCWP2EGZRyqb2FXRlv0kzXahKTG8_oeSUfxA9dsWMXOU34bg0UNnVyraRpMHvmozj9M6x4dWDFVlekkIjTb-ZeQVEyyVRaemTwCNWcrtlLVumXV9xJpDeu3s0DWfak1nsE9GQMmb78tSet7j8_Z-I59b5tPX9hxBRZ7FfPEebtEAfXdkQbFLGgMESclCeQDRYinptUQaqxqhrMS5S2rBH6C_TkApC_v_fubis6su7vPjJzKbC_4ElRlSkeTdQh6NuK0DwJGVd14jWGnBti3s3ebFERm8jlNmCVBA9UcGwbOoI0IEtWevSxZWVoPXanJfS19-Gz-2uC29vtEk1WI6bVjdU9TNzTuKayhZPbYtKAmetd1hsGKbVjEk8H0zjqFvBK-m2OGXn5_mJh5793aeW2s3_jdbUnhdbUY1uJkKnvV4cXMoicV_do9YGUXa1TQJ8tXdvZQCNz5p7KRpn1aJs2A7uvRRAxcvpi5yk9tWdufLT0Kzq_YQ2Un-Ffx9PipFzKUDcL3Rp3ab1GUx0lEQfTo1uSWMaoM6gYgUyR8mPd9w_w4UUWfTZ2528o_fImZDi1_63wcyvNG1sv1oQU5qDcBJQzTlQduWG2QJ3cqs"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -799,7 +798,6 @@ export let services = [
             "https://3dnews.ru/assets/external/illustrations/2019/03/05/983792/yandex0503-2.png",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -820,7 +818,6 @@ export let services = [
             "https://tabsgame.ru/screens/2016-04-25/1461569137_yandeks-perevodchik-804587-h900.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -841,7 +838,6 @@ export let services = [
             "https://www.digiseller.ru/preview/392951/p1_2845376_2698ce9c.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -862,7 +858,8 @@ export let services = [
             "https://crimeamountain.ru/wp-content/uploads/2019/06/yandex-pogoda-karta.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/w8x_xWuNV8c",
+            "https://youtu.be/WzmaARq3zPA"
         ]
     },
     {
@@ -882,7 +879,7 @@ export let services = [
             "https://avatars.mds.yandex.net/get-lpc/1674605/7d771ea2-4719-4c64-a813-b074f485adb0/orig",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/2wJnOvUcIiY"
         ]
     },
     {
@@ -903,7 +900,8 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=2a0000017a0e8c3183f60bee547450ee47f8-5147142-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/UiH_C9kN5EA",
+            "https://youtu.be/NP1QbbKFWKA"
         ]
     },
     {
@@ -914,7 +912,7 @@ export let services = [
         tags: [
             "Учеба",
         ],
-        date: new Date("February, 2019"),
+        date: new Date("February 1, 2019"),
         link: "https://praktikum.yandex.ru",
         description: "Яндекс.Практикум — международный сервис онлайн-образования, запущенный компанией Яндекс в 2019 году. Обучение проходит в собственной технологической среде компании, что позволяет сразу применять полученные знания на практике. Изначально сервис был ориентирован на желающих получить профессиональные компетенции в IT-сфере, но впоследствии перечень специализаций и навыков, которые можно освоить в Яндекс.Практикуме значительно расширился. Например, появились продвинутые учебные программы для тех, кто уже имеет опыт программирования.",
         images: [
@@ -927,7 +925,8 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=455ffd638b23d43b0bfafa1e00668742-4465311-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/RFFt6ge-yxE",
+            "https://youtu.be/COaXBeiKezw"
         ]
     },
     {
@@ -951,7 +950,8 @@ export let services = [
             "http://cn15.nevsedoma.com.ua/photo/752/104_files/1_010.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/FgeL5Mu80ww",
+            "https://youtu.be/j3ZaJAmjeIk"
         ]
     },
     {
@@ -972,7 +972,6 @@ export let services = [
             "https://ppc.world/uploads/article_images/2018/02/radar_otchet.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -984,7 +983,7 @@ export let services = [
             "Музыка",
             "Рекомендации"
         ],
-        date: new Date("June, 2015"),
+        date: new Date("June 1, 2015"),
         link: "https://radio.yandex.ru/",
         description: "Представляет собой онлайн-радиостанцию, репертуар которой каждый пользователь может подобрать по своему вкусу. Доступен выбор жанра, эпохи, региона, а также выбор музыки под настроение. Действует машинное обучение на основе истории прослушиваний: пользователь может создать свою собственную радиостанцию, которая будет ориентироваться на его предпочтения. На момент запуска было доступно около 100 каналов музыки и библиотека из 20 миллионов композиций. Проигрываемую композицию можно отметить как понравившуюся или нет, что повышает персонализацию. ",
         images: [
@@ -996,7 +995,6 @@ export let services = [
             "https://ic.pics.livejournal.com/novser/21754869/2094277/2094277_original.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1017,7 +1015,6 @@ export let services = [
             "https://telecomdom.com/wp-content/uploads/2020/07/2020-07-03_10-44-23.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1040,7 +1037,6 @@ export let services = [
             "https://www.web-canape.ru/files/352/yandeks-repetitor.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1061,7 +1057,6 @@ export let services = [
             "https://cdn.the-village.ru/the-village.ru/post_image-image/6PhdoUeOTsNpM-MUtg7VBw.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1083,7 +1078,7 @@ export let services = [
             "https://telegramfor.me/ext_img/dddjournalism/3426",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/Q5ebpsPoh20"
         ]
     },
     {
@@ -1104,13 +1099,12 @@ export let services = [
             "https://storage.yandexcloud.net/incrussia-prod/wp-content/uploads/2018/06/ya-shop-news.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
         id: 50,
         name: "Такси/Go",
-        img: "https://i.ibb.co/Tqx15Rd/Screenshot-9.png\" ",
+        img: "https://i.ibb.co/Tqx15Rd/Screenshot-9.png",
         categoryId: 3,
         tags: [
             "Транспорт",
@@ -1125,7 +1119,8 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=65a7867a0c7d067aeaa02ae2552c292c-4829707-images-thumbs&ref=rim&n=33&w=333&h=188"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/lRutvzJkPH4",
+            "https://youtu.be/TVM2qgNhsFA"
         ]
     },
     {
@@ -1135,6 +1130,7 @@ export let services = [
         categoryId: 2,
         tags: [
             "Видео",
+            "Общение"
         ],
         date: new Date("2020"),
         link: "https://telemost.yandex.ru/",
@@ -1148,7 +1144,6 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=12ab7563ce14835b062d18bfe43e51fa-5876069-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1169,7 +1164,7 @@ export let services = [
             "https://2.bp.blogspot.com/-fTuvO_XMW_4/WDMhCV8v0RI/AAAAAAAAAvY/RffATxW9CIceb7M38I7P6efYK3D04slRgCLcB/s1600/tv.yandex.ru1.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/icoEmTCukr4"
         ]
     },
     {
@@ -1191,7 +1186,8 @@ export let services = [
             "https://www.intrumnet.com/blog/images/1514292402_yandex1.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/rWM7nII0f2k",
+            "https://youtu.be/q76kOdHwXJg"
         ]
     },
     {
@@ -1211,7 +1207,6 @@ export let services = [
             "https://static.tildacdn.com/tild3061-3331-4634-b136-656433393561/1.jpg",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1234,7 +1229,6 @@ export let services = [
             "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/1074840/uZRRv9uH4SaeC2zPyARiw.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1245,7 +1239,7 @@ export let services = [
         tags: [
             "Организация",
         ],
-        date: new Date("January, 2012"),
+        date: new Date("January 1, 2012"),
         link: "https://tracker.yandex.ru",
         description: "Яндекс.Трекер — сервис для управления проектами и контроля выполнения задач. Разработка сервиса, который изначально предназначался для работы внутри компании Яндекс, началась в январе 2012 года. В ноябре 2017 года Трекер стал доступен всем. Cервис платный. Бесплатный тестовый период составляет 30 дней. Для команды из 5 человек и менее - бесплатен. ",
         images: [
@@ -1256,7 +1250,7 @@ export let services = [
             "https://gde-saas.ru/wp-content/uploads/9301.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/P5Lj7O8Yy4g"
         ]
     },
     {
@@ -1278,7 +1272,9 @@ export let services = [
             "https://startpack.ru/repository/application/2659/image/13967.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/W8OzI44MlRc",
+            "https://youtu.be/Sgl7GT3San0",
+            "https://youtu.be/pxisMoHyZ84"
         ]
     },
     {
@@ -1302,7 +1298,9 @@ export let services = [
             "https://ds05.infourok.ru/uploads/ex/10dc/000d1cb3-a8b04eba/img12.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/NSmGn8DBpO4",
+            "https://youtu.be/d7VQphd_rZ8",
+            "https://youtu.be/QSV2ChtEDp4"
         ]
     },
     {
@@ -1322,7 +1320,7 @@ export let services = [
             "https://avatars.mds.yandex.net/get-ynews/1779694/ae9d0c92eabb148924f79c72196fa068/992x496",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/0In43HSqBN4"
         ]
     },
     {
@@ -1345,7 +1343,8 @@ export let services = [
             "https://sdelano.media/wp-content/uploads/forms30-1.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/NuUYcMK2EFw",
+            "https://youtu.be/3Honb-4nQqE"
         ]
     },
     {
@@ -1356,7 +1355,7 @@ export let services = [
         tags: [
             "Транспорт",
         ],
-        date: new Date("September, 2008"),
+        date: new Date("September 1, 2008"),
         link: "https://yandex.ru/metro",
         description: "Яндекс.Метро (англ. Yandex.Metro) — мобильное приложение и веб-сервис с 36 интерактивными схемами метрополитенов. Позволяет рассчитывать время в пути и строить оптимальные маршруты, а также узнавать о перекрытиях и изменениях в работе метро. В настоящее время поддерживается и развивается третья версия для операционных систем Android, Harmony OS и iOS, хотя раньше существовали версии ещё и для других, более неактуальных, мобильных ОС. ",
         images: [
@@ -1366,7 +1365,6 @@ export let services = [
             "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0a/3d/ef/0a3defff-0007-118a-db2d-b348c5374857/pr_source.png/392x696bb.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1389,7 +1387,7 @@ export let services = [
             "https://overclockers.ru/st/legacy/blog/360526/129031_O.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/npVtFjB83oU"
         ]
     },
     {
@@ -1411,7 +1409,7 @@ export let services = [
             "http://vokrugsofta.ru/uploads/posts/2018-02/1519142473_yandeks.brauzer_vokrugsofta.ru.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/zh0Ny87nRGY"
         ]
     },
     {
@@ -1434,7 +1432,7 @@ export let services = [
             "https://startpack.ru/repository/application/2669/image/14011.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/fFwfvFhQLSU"
         ]
     },
     {
@@ -1455,7 +1453,7 @@ export let services = [
             "https://cdnn21.img.ria.ru/images/07e5/03/0a/1600652226_0:0:3072:1728_1920x0_80_0_0_46d302aff131c633ff408bf19fc212f9.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/mQeZMhT48H4"
         ]
     },
     {
@@ -1475,7 +1473,6 @@ export let services = [
             "https://i.ibb.co/64HJ8jP/Screenshot-13.png\" ",
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1498,7 +1495,9 @@ export let services = [
             "https://yandex-images.clstorage.net/HH1Q00322/f10528AZ/YlWHHGGVdfF3Ju0-E2LAfW0QIBBIsMysDKoGT04kDUMZeCZ1KVnvQ99S4zUiQBcwCyQcY9ChQLVrpsoGS8dRuNdRkngFVMQVh4b9PiOyUc39YJCQuDCN7HyPgz7-cdnTPLniQKkvmdT4YIVSQULgMtzQ3FNV8SSxr8K88DsQh_8SJpe9w0fG9tdUvTgws0Bd32CkUTjCKky5q-dKjCPIp72Lw1fu_ppGaGAlIkCikjANAfwi9RPFFX5TL3Ef0wWswWSGX5Gk5qSmtO0Is_HSf71QxYAIE7reW7oG2E4DWATcOzBnrW9rFYlCF5Ay0-IzP5JcsqWBJKTfw23T3iC3vTKmFU3QFfSVF5SfCmCjwR6sQTTSa8G6nMp4Fto-keo0v8lRl75_Sjbb4JcwQeKAch-TXTCFUGfVrNCOIu0Cpd3zJkWtMdYG1fWFzGpik4GsrzHUQhlg6TzrKQdJH0Hp5Fz5I7fsbFs0uLA2Q5BQUGIsQT5RdcIkJb5BvoOPMydNIgVl_VG01udUVp5r4lPR7b_CxrBqkKjdqQoVqk8BqDX-ynP1TsyqdZiBlHBBMPIwHJFfYZbyJQQuIWwBDEJl_1EXp98RR0R1JlY-mlHiMm4vYqejukGorRs5xPuv4hnFLsnixd5-iBXLc9bR0INgsS9BLGEHI9fmXIDds05Ato0D5odPsKRnttc030nyMrINPyKGMMmzKd3LKxRoHiMbp42IUkUOLMpX2SGkQgKC4GLdkz7xdxGWN_wTv7P_sWT9gQV2rqE0tvdXBC6Z4EPwbj3xxZA6YwrfCCgEmt1zGAcueTM1ns7JNqsDNoKTETDA3kIMULbiFBTuoqxhrFIWPxFF9cwyh1Ykxeb8ieKCIc2_0XXCyYIKPsurNQu-4jvn_8szdt4c27eKYkYwoHLB4V9DPlKH4bV27fE_Mx1jBE8CheccA1VF9TdFzvuAYBJd3ADUkPjw2jzLuHRIrEJIY"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/aC2YN0dAF-w",
+            "https://youtu.be/RDL2D_imPMI",
+            "https://youtu.be/1IKhkqxHOX4"
         ]
     },
     {
@@ -1521,7 +1520,7 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=68e15912ba49ee9bf407f4de5f726eed-4903727-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/J1FDTllmBeI"
         ]
     },
     {
@@ -1545,7 +1544,6 @@ export let services = [
             "https://prosto-eto.ru/wp-content/uploads/2020/03/dostavka-produktov-i-gotovyj-edy-na-dom-vo-vremya-karantina-top-luchshih-servisov-i-magazinov-8.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
         ]
     },
     {
@@ -1568,7 +1566,8 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=a5013fa1ed618e8abcb14fd1a56386fb-4233047-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/R5ixZ4ZmS_g",
+            "https://youtu.be/l8ZXrwOsjX0"
         ]
     },
     {
@@ -1589,7 +1588,8 @@ export let services = [
             "https://avatars.mds.yandex.net/i?id=384e4956a84ddb81797be1a0868a50d8-5179607-images-thumbs&n=13&exp=1"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/6798EsS4MyE",
+            "https://youtu.be/m8yzDCZimJs"
         ]
     },
     {
@@ -1600,7 +1600,7 @@ export let services = [
         tags: [
             "Искусство",
         ],
-        date: new Date("December, 2013"),
+        date: new Date("December 1, 2013"),
         link: "https://yandex.ru/autopoet",
         description: "Автопоэт Яндекса (или Дада-Фет) — робот, пишущий стихи на основе поисковых запросов пользователей. ",
         images: [
@@ -1610,7 +1610,7 @@ export let services = [
             "https://droider.ru/wp-content/uploads/2016/04/Snimok-e%60krana-2016-04-01-v-18.18.23.png"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/K9S-3lSbNGE"
         ]
     },
     {
@@ -1631,7 +1631,31 @@ export let services = [
             "https://pbs.twimg.com/media/E4HkHBQXEAQsmR8.jpg"
         ],
         video: [
-            "https://youtu.be/UsyEZr1fCp4"
+            "https://youtu.be/GT1cFdif7MQ",
+            "https://youtu.be/HLFvi5UwsRQ"
+        ]
+    },
+    {
+        id: 74,
+        name: "Разговор",
+        img: "https://play-lh.googleusercontent.com/2e8GVGtLrfz4r7LeyH2YDaHm6NjSiKrbgUYJ6YvWDIGv8HaEvUEaJIm2x7WC8xn2AGs=s360",
+        categoryId: 8,
+        tags: [
+            "Здоровье",
+            "Общение"
+        ],
+        date: new Date("February 26, 2016"),
+        link: "https://mobile.yandex.ru/apps/android/talk/",
+        description: "Приложение помогает глухим и слабослышащим общаться со знакомыми и незнакомыми людьми — переводя устную речь в текст и обратно.",
+        images: [
+            "https://play-lh.googleusercontent.com/T4_8ZXSDNZRjhRnGkbMohk9gWbiu_Rt-21UiSsUrADUl5hVaQ-xJlUnkdBLHw6ESpZhT=w3072-h1422",
+            "https://play-lh.googleusercontent.com/pngPxhdlvfwhjxTh-jar2I1TyezSANwYxmHAP4UxcOluEwoWjZvooomy4-u1lwbjHQ=w3072-h1422",
+            "https://play-lh.googleusercontent.com/Oj6menljEWitfy-NmVjUtv9wEIq8Qr0m82MeiuFZ29APCY9l7BjA71fPs8NaXQ4m6tLM=w3072-h1422",
+            "https://play-lh.googleusercontent.com/JlqAwa3Zf4B45fz1r_i_p_ng_aTJZosBWtOtWoRo2z08VJa-4oLLB_GCPCvIIvymsdk=w3072-h1422"
+        ],
+        video: [
+            "https://youtu.be/fjObPaLOPgE",
+            "https://youtu.be/G4uzIth725M"
         ]
     },
 ]
